@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mssql": "^11.0.1",
+    "mysql2": "^3.12.0",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.21"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "mysql": "^2.18.1"
+  },
+  "name": "api_typeorm",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
